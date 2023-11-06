@@ -1,2 +1,2 @@
-model_checkpoint_path: "save_sgd"
-all_model_checkpoint_paths: "save_sgd"
+model_checkpoint_path: "save_nadam"
+all_model_checkpoint_paths: "save_nadam"
