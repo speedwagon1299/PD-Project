@@ -82,3 +82,4 @@ A comparative study of discriminator training performance using different optimi
 -   Data sourced from **[PPMI Dataset](https://ida.loni.usc.edu/)**.
 -   Visualizations made with **Netron**.
 -   Implementation inspired by **SOTA deep learning techniques** for PD classification.
+-   Bhattiprolu, S. (2023, August 23). 259 - Semi-supervised learning with GANs - in keras [Video]. YouTube. https://youtu.be/mjftYIKSlLQ
