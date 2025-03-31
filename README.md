@@ -24,18 +24,6 @@ Contains trained model weights accessed by scripts in:
 
 ---
 
-### 📁 **Documents**
-
-Contains organized research and results, including:
-
-1. 📄 **Network Architecture Comparisons**
-2. 📄 **Optimizer Performance Analysis**
-3. 📄 **Parameter Fine-Tuning Experiments**
-4. 📄 **Base Theory Behind SGAN (Semi-Supervised GANs)**
-5. 📄 **SGAN Results on Different Sample Sizes**
-
----
-
 ### 📁 **onnx**
 
 -   Code to generate the **Generator** and **Discriminator** architectures using **ONNX**.
